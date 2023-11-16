@@ -33,11 +33,17 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;My Contributions 
 </h1>
 
+
 <p align="center">
+	
  <a href="https://git.io/streak-stats">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fpereiraaraujo&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
  </a>
 </p>
+<div align="center">
+        
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fpereiraaraujo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
 
